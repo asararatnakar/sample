@@ -1,0 +1,7 @@
+crypto-config
+crypto/openssl.cnf.base.this
+.rnd
+channel-artifacts/genesis.block
+channel-artifacts/channel.tx
+channel-artifacts/Org1MSPanchors.tx
+channel-artifacts/Org2MSPanchors.tx
